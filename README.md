@@ -1,4 +1,4 @@
-# OnlineFixLauncherAlt
+# OnlineFixLauncher
 
 Made in my spare time, with Rust + TS/HTML/CSS with Tauri framework.
 
